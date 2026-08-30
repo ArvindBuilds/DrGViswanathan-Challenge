@@ -142,3 +142,11 @@ I’ll be updating this README throughout the challenge to document my progress,
 ---
 
 ⭐ If you find this journey useful, feel free to follow along!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+<!---LeetCode Topics End-->
