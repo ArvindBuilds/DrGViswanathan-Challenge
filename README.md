@@ -154,6 +154,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0015-3sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -162,6 +163,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0015-3sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -169,6 +171,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0015-3sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
