@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-
         vector<vector<int>> ans;
         int n = nums.size();
 
@@ -28,7 +27,6 @@ public:
                                   + nums[right];
 
                     if (sum == target) {
-
                         ans.push_back({
                             nums[i],
                             nums[j],
