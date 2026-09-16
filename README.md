@@ -162,6 +162,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -178,6 +179,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -241,6 +243,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0141-linked-list-cycle](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
+| [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +251,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0142-linked-list-cycle-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
