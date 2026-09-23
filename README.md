@@ -183,6 +183,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
+| [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -210,6 +211,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -233,6 +235,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -263,6 +266,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
+| [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
