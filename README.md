@@ -160,6 +160,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0015-3sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -299,4 +300,12 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
