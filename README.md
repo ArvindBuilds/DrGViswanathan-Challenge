@@ -169,6 +169,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -229,6 +230,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
