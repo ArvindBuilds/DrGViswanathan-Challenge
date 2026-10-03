@@ -172,6 +172,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -231,6 +232,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
