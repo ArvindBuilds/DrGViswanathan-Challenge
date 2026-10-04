@@ -166,6 +166,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
+| [0525-contiguous-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -229,6 +230,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
@@ -283,6 +285,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
+| [0525-contiguous-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
