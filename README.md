@@ -161,6 +161,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -205,6 +206,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0015-3sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -245,6 +247,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
