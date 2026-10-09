@@ -179,6 +179,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -201,6 +202,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,4 +375,8 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
