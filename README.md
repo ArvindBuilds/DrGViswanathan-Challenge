@@ -148,6 +148,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
@@ -328,6 +329,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
