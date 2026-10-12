@@ -187,6 +187,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
