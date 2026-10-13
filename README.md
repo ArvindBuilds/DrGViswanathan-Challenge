@@ -189,6 +189,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
