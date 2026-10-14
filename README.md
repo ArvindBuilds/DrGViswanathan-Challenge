@@ -158,6 +158,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0206-reverse-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
