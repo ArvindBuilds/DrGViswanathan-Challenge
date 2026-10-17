@@ -193,6 +193,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
