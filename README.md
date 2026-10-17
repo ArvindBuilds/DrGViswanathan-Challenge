@@ -273,6 +273,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -283,6 +284,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -413,4 +415,8 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
