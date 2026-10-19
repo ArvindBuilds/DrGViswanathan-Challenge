@@ -181,6 +181,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -292,6 +293,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
@@ -310,6 +312,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
