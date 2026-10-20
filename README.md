@@ -160,6 +160,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +367,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0143-reorder-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
