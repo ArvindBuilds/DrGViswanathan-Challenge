@@ -286,6 +286,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +298,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
