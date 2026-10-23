@@ -282,6 +282,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
+| [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
@@ -295,6 +296,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0071-simplify-path](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -309,6 +311,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -316,6 +319,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0739-daily-temperatures/) | Medium |
