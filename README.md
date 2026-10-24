@@ -282,6 +282,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -333,6 +334,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0141-linked-list-cycle](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
@@ -393,6 +395,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
@@ -440,4 +443,8 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
