@@ -289,6 +289,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -343,6 +344,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -447,4 +449,5 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
