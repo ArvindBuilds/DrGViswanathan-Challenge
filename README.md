@@ -284,6 +284,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0076-minimum-window-substring](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0076-minimum-window-substring/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
+| [0409-longest-palindrome](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0567-permutation-in-string/) | Medium |
@@ -314,6 +315,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0402-remove-k-digits/) | Medium |
+| [0409-longest-palindrome](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0409-longest-palindrome/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -336,6 +338,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0142-linked-list-cycle-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
