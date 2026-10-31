@@ -173,6 +173,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0057-insert-interval](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0162-find-peak-element](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
@@ -237,6 +238,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
