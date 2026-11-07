@@ -199,6 +199,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -254,6 +255,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0875-koko-eating-bananas](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
