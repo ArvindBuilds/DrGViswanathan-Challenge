@@ -172,6 +172,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0053-maximum-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0057-insert-interval/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0162-find-peak-element/) | Medium |
@@ -246,6 +247,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0275-h-index-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0275-h-index-ii/) | Medium |
@@ -480,4 +482,8 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
