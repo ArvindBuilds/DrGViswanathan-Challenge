@@ -181,6 +181,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0275-h-index-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -239,6 +240,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0018-4sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -255,6 +257,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0275-h-index-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -439,6 +442,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -490,4 +494,5 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
