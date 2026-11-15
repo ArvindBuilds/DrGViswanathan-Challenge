@@ -204,6 +204,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -296,6 +297,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +399,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -432,6 +435,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0410-split-array-largest-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
