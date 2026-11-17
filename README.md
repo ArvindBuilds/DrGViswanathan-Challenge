@@ -234,6 +234,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0876-middle-of-the-linked-list](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,6 +439,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
