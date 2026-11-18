@@ -327,6 +327,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
