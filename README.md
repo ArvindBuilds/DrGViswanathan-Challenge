@@ -207,6 +207,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -246,6 +247,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
@@ -354,6 +356,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0409-longest-palindrome](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
