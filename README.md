@@ -183,6 +183,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0275-h-index-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0457-circular-array-loop](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0457-circular-array-loop/) | Medium |
@@ -246,6 +247,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0056-merge-intervals](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -379,6 +381,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0141-linked-list-cycle](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -435,6 +438,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0215-kth-largest-element-in-an-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -462,6 +466,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Indexed Tree
@@ -503,6 +508,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Ternary Search
@@ -519,4 +525,9 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
