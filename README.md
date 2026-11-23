@@ -200,6 +200,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0875-koko-eating-bananas](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
@@ -252,6 +253,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -414,6 +416,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0202-happy-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
@@ -444,6 +447,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0327-count-of-range-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +478,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +537,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,4 +547,12 @@ I’ll be updating this README throughout the challenge to document my progress,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
