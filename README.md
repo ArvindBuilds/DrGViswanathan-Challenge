@@ -208,6 +208,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -258,6 +259,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -284,6 +286,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0875-koko-eating-bananas](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Sliding Window
@@ -485,6 +488,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +542,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0074-search-a-2d-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
