@@ -207,6 +207,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0986-interval-list-intersections](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -488,6 +489,7 @@ I’ll be updating this README throughout the challenge to document my progress,
 | [0692-top-k-frequent-words](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ArvindBuilds/DrGViswanathan-Challenge/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
